@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'social-auth-service'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E41BD8DCE384543870860B230EEB58B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE6E97BF2836477CAD0907FD9084FEFB }}
           package: .
