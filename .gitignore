@@ -1,6 +1,8 @@
 # Dependency directories
 node_modules/
+dist/
 *.log
 *.gz
 
+package-lock.json
 yarn.lock

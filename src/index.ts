@@ -13,3 +13,5 @@ port = (process.env.PORT || 8080);
 httpServer.listen(port, () => {
     logger.info(serverStartMsg + port);
 });
+
+export default httpServer;
