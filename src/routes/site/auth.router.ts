@@ -7,7 +7,6 @@ import AuthConfig from '@configs/authentication'
 import responseFormat from '@shared/responseFormat';
 import { UserDTO } from '@dto/user.dto';
 import { passport } from '@middlewares/passport.middleware';
-import { parse, stringify } from 'querystring';
 
 // Constants
 const router = Router();
