@@ -1,8 +1,6 @@
 # Dependency directories
 node_modules/
-package-lock.json
 *.log
 *.gz
 
-src/pre-start/env
 yarn.lock
