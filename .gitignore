@@ -4,5 +4,4 @@ dist/
 *.log
 *.gz
 
-package-lock.json
 yarn.lock
