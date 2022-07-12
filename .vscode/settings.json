@@ -6,6 +6,6 @@
       "node_modules{,/**}",
       ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/6b149997-f422-4f84-a609-58ab72bd596d/microsoft.web/sites/subscriptions/6b149997-f422-4f84-a609-58ab72bd596d/resourceGroups/SumServer/providers/Microsoft.Web/sites/social-sale-helper-server",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6b149997-f422-4f84-a609-58ab72bd596d/microsoft.web/sites/subscriptions/6b149997-f422-4f84-a609-58ab72bd596d/resourceGroups/SumServer/providers/Microsoft.Web/sites/social-auth-service",
     "appService.deploySubpath": "."
 }
